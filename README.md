@@ -1,6 +1,5 @@
-### Hi there 👋
+<img src="giphy.gif" width="200" height="250"><img src="giphy.gif" width="200" height="250"><img src="giphy.gif" width="200" height="250"><img src="giphy.gif" width="200" height="250"><img src="giphy.gif" width="200" height="250">
 
-![alt text](giphy.gif)
 
 <!--
 **jackmarsh/jackmarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
