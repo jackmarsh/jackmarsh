@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![alt text][logo]
-
-[logo]: https://github.com/jackmarsh/jackmarsh/giphy.gif "whoops something fucked up"
+![alt text](giphy.gif)
 
 <!--
 **jackmarsh/jackmarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
