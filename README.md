@@ -1,4 +1,4 @@
-<img src="giphy.gif" width="200" height="250"><img src="giphy.gif" width="200" height="250"><img src="giphy.gif" width="200" height="250"><img src="giphy.gif" width="200" height="250">
+<img src="giphy.gif" width="25%" height="100%"><img src="giphy.gif" width="200" height="250"><img src="giphy.gif" width="200" height="250"><img src="giphy.gif" width="200" height="250">
 
 
 <!--
